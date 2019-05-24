@@ -1,0 +1,12 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-typescript": "^5.0.1",
+    "typescript": "^3.4.5"
+  }
+}
